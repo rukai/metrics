@@ -264,6 +264,7 @@ mod common;
 pub use self::common::*;
 
 mod cow;
+mod cow2;
 
 mod handles;
 pub use self::handles::*;
